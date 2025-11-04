@@ -1,5 +1,5 @@
 Encapsulation
-📘 Tugas Pemrograman Berorientasi Objek – Encapsulation
+Tugas Pemrograman Berorientasi Objek – Encapsulation
 Repositori ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Berorientasi Objek (PBO).
 Materi yang dibahas: Encapsulation dalam Java, mencakup penggunaan private attribute, getter, setter, dan validasi nilai dalam class.
 Di sini saya membuat beberapa class seperti Student, Team, dan ImmutableStudent untuk mempraktikkan penggunaan private fields, getter/setter, serta kontrol akses data dengan cara yang aman.
